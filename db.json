@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "769f",
+      "title": "สัมภาษณ์",
+      "description": "เตรียมข้อมูลสำงาน",
+      "status": "pending"
+    },
+    {
+      "id": "ccec",
+      "title": "เริ่ดเริ่ดเริ่ด",
+      "description": "เริ่ดที่สุดเริ่ดมากกก",
+      "status": "completed"
+    }
+  ],
+  "users": [
+    {
+      "id": "id01",
+      "email": "admin@test.com",
+      "password": "password123"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
